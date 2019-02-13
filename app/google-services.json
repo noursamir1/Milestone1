@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "651327522554",
+    "firebase_url": "https://thermonitorapp.firebaseio.com",
+    "project_id": "thermonitorapp",
+    "storage_bucket": "thermonitorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651327522554:android:e2da3c5cb4b21fd0",
+        "android_client_info": {
+          "package_name": "com.example.wetherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651327522554-qdjon63dvmoch21bqkdto9snjbb8n8aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATglOuA22AbJeQR7D5AvulK5DOYIXMuq8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
